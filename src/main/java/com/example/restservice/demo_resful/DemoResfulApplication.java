@@ -9,6 +9,7 @@ public class DemoResfulApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoResfulApplication.class, args);
 		System.out.println("Successful");
+		System.out.println("Test git commit");
 	}
 
 }
